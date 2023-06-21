@@ -1,3 +1,28 @@
 h1 {
     text-align: center;
+    background-color: aqua;
+    color: orange;
+    font-family: Garamond, sans-serif;
+}
+
+h3 {
+    background-color: orange;
+    text-align: center;
+    color: aqua;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.redBack {
+    background-color: red;
+}
+
+.yellowBack {
+    background-color: yellow;
+}
+
+.brownBack {
+    background-color: brown;
 }
