@@ -1,5 +1,7 @@
 h1 {
     text-align: center;
+    width: 600px;
+    margin: 0 auto;
     background-color: aqua;
     color: orange;
     font-family: Garamond, sans-serif;
@@ -25,4 +27,20 @@ h3 {
 
 .brownBack {
     background-color: brown;
+}
+
+.mainListCont {
+    background-color: rgb(250, 220, 172);
+    padding: 1px;
+    margin: 8px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.mainList {
+    display: block;
+    text-align: center;
+    margin-top: 8;
+    margin: 0 auto;
+    width: 500px;
 }
